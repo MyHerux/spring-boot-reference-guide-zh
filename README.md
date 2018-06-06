@@ -18,7 +18,7 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 
 - [ ] IV. Spring Boot features
 
-- [ ] Part V. Spring Boot Actuator: Production-ready features
+- [ ] V. Spring Boot Actuator: Production-ready features
 
 - [ ] VI. Deploying Spring Boot Applications
 
