@@ -18,6 +18,33 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 
 - [ ] IV. Spring Boot features
 
+    - [ ] 23. SpringApplication
+    - [ ] 24. Externalized Configuration
+    - [ ] 25. Profiles
+    - [ ] 26. Logging
+    - [x] 27. Developing Web Applications
+    - [ ] 28. Security
+    - [ ] 29. Working with SQL Databases
+    - [ ] 30. Working with NoSQL Technologies
+    - [ ] 31. Caching
+    - [ ] 32. Messaging
+    - [ ] 33. Calling REST Services with RestTemplate
+    - [ ] 34. Calling REST Services with WebClient
+    - [ ] 35. Validation
+    - [ ] 36. Sending Email
+    - [ ] 37. Distributed Transactions with JTA
+    - [ ] 38. Hazelcast
+    - [ ] 39. Quartz Scheduler
+    - [ ] 40. Spring Integration
+    - [ ] 41. Spring Session
+    - [ ] 42. Monitoring and Management over JMX
+    - [ ] 43. Testing
+    - [ ] 44. WebSockets
+    - [ ] 45. Web Services
+    - [ ] 46. Creating Your Own Auto-configuration
+    - [ ] 47. Kotlin support
+    - [ ] 48. What to Read Next
+
 - [ ] V. Spring Boot Actuator: Production-ready features
 
 - [ ] VI. Deploying Spring Boot Applications
