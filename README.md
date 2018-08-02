@@ -11,10 +11,35 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 ## 翻译计划
 
 - [ ] I. Spring Boot Documentation
+  
+    - [ ] 1.About the Documentation
+    - [ ] 2.Getting Help
+    - [ ] 3. First Steps
+    - [ ] 4. Working with Spring Boot
+    - [ ] 5. Learning about Spring Boot Features
+    - [ ] 6. Moving to Production
+    - [ ] 7. Advanced Topics
 
 - [ ] II. Getting Started
+  
+    - [ ] 8. Introducing Spring Boot
+    - [ ] 9. System Requirements
+    - [ ] 10. Installing Spring Boot
+    - [ ] 11. Developing Your First Spring Boot Application
+    - [ ] 12. What to Read Next
 
 - [ ] III. Using Spring Boot
+  
+    - [ ] 13. Build Systems
+    - [ ] 14. Structuring Your Code
+    - [ ] 15. Configuration Classes
+    - [ ] 16. Auto-configuration
+    - [ ] 17. Spring Beans and Dependency Injection
+    - [ ] 18. Using the @SpringBootApplication Annotation
+    - [ ] 19. Running Your Application
+    - [ ] 20. Developer Tools
+    - [ ] 21. Packaging Your Application for Production
+    - [ ] 22. What to Read Next
 
 - [ ] IV. Spring Boot features
 
@@ -46,16 +71,67 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 48. What to Read Next
 
 - [ ] V. Spring Boot Actuator: Production-ready features
+  
+    - [ ] 49. Enabling Production-ready Features
+    - [ ] 50. Endpoints
+    - [ ] 51. Monitoring and Management over HTTP
+    - [ ] 52. Monitoring and Management over JMX
+    - [ ] 53. Loggers
+    - [ ] 54. Metrics
+    - [ ] 55. Auditing
+    - [ ] 56. HTTP Tracing
+    - [ ] 57. Process Monitoring
+    - [ ] 58. Cloud Foundry Support
+    - [ ] 59. What to Read Next
 
 - [ ] VI. Deploying Spring Boot Applications
+  
+    - [ ] 60. Deploying to the Cloud
+    - [ ] 61. Installing Spring Boot Applications
+    - [ ] 62. What to Read Next
 
 - [ ] VII. Spring Boot CLI
+  
+    - [ ] 63. Installing the CLI
+    - [ ] 64. Using the CLI
+    - [ ] 65. Developing Applications with the Groovy Beans DSL
+    - [ ] 66. Configuring the CLI with settings.xml
+    - [ ] 67. What to Read Next
 
 - [ ] VIII. Build tool plugins
+  
+    - [ ] 68. Spring Boot Maven Plugin
+    - [ ] 69. Spring Boot Gradle Plugin
+    - [ ] 70. Spring Boot AntLib Module
+    - [ ] 71. Supporting Other Build Systems
+    - [ ] 72. What to Read Next
 
 - [ ] IX. ‘How-to’ guides
+  
+    - [ ] 73. Spring Boot Application
+    - [ ] 74. Properties and Configuration
+    - [ ] 75. Embedded Web Servers
+    - [ ] 76. Spring MVC
+    - [ ] 77. HTTP Clients
+    - [ ] 78. Logging
+    - [ ] 79. Data Access
+    - [ ] 80. Database Initialization
+    - [ ] 81. Messaging
+    - [ ] 82. Batch Applications
+    - [ ] 83. Actuator
+    - [ ] 84. Security
+    - [ ] 85. Hot Swapping
+    - [ ] 86. Build
+    - [ ] 87. Traditional Deployment
 
 - [ ] X. Appendices
+  
+    - [ ] A. Common application properties
+    - [ ] B. Configuration Metadata
+    - [ ] C. Auto-configuration classes
+    - [ ] D. Test auto-configuration annotations
+    - [ ] E. The Executable Jar Format
+    - [ ] F. Dependency versions
 
 ## 许可
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
