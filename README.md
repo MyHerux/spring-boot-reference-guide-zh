@@ -23,7 +23,7 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 - [ ] II. Getting Started
   
     - [x] 8. Introducing Spring Boot
-    - [ ] 9. System Requirements
+    - [x] 9. System Requirements
     - [ ] 10. Installing Spring Boot
     - [ ] 11. Developing Your First Spring Boot Application
     - [ ] 12. What to Read Next
