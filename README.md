@@ -47,13 +47,13 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 24. Externalized Configuration
     - [ ] 25. Profiles
     - [ ] 26. Logging
-    - [x] 27. Developing Web Applications
+    - [x] [27. Developing Web Applications](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/27.Developing-Web-Applications.md)
     - [ ] 28. Security
     - [ ] 29. Working with SQL Databases
     - [ ] 30. Working with NoSQL Technologies
     - [ ] 31. Caching
     - [ ] 32. Messaging
-    - [ ] 33. Calling REST Services with RestTemplate
+    - [x] [33. Calling REST Services with RestTemplate](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/33.Calling-REST-Services-with-RestTemplate.md)
     - [ ] 34. Calling REST Services with WebClient
     - [ ] 35. Validation
     - [ ] 36. Sending Email
@@ -72,8 +72,8 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 
 - [ ] V. Spring Boot Actuator: Production-ready features
   
-    - [ ] 49. Enabling Production-ready Features
-    - [ ] 50. Endpoints
+    - [x] [49. Enabling Production-ready Features](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/49.Enabling-Production-ready-Features.md)
+    - [x] [50. Endpoints](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/50.%08Endpoints.md)
     - [ ] 51. Monitoring and Management over HTTP
     - [ ] 52. Monitoring and Management over JMX
     - [ ] 53. Loggers
