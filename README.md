@@ -77,7 +77,7 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 51. Monitoring and Management over HTTP
     - [ ] 52. Monitoring and Management over JMX
     - [ ] 53. Loggers
-    - [ ] 54. Metrics
+    - [x] [54. Metrics](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/54.Metrics.md)
     - [ ] 55. Auditing
     - [ ] 56. HTTP Tracing
     - [ ] 57. Process Monitoring
