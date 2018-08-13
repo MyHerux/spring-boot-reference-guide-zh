@@ -20,7 +20,7 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 6. Moving to Production
     - [ ] 7. Advanced Topics
 
-- [ ] II. Getting Started
+- [ ] [II. Getting Started]()
   
     - [x] [8. Introducing Spring Boot](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/8.Introducing-Spring-Boot.md)
     - [x] [9. System Requirements](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/9.System-Requirements.md)
