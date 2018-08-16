@@ -70,19 +70,19 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 47. Kotlin support
     - [ ] 48. What to Read Next
 
-- [ ] V. Spring Boot Actuator: Production-ready features
+- [x] V. Spring Boot Actuator: Production-ready features
   
     - [x] [49. Enabling Production-ready Features](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/49.Enabling-Production-ready-Features.md)
     - [x] [50. Endpoints](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/50.%08Endpoints.md)
-    - [ ] 51. Monitoring and Management over HTTP
-    - [ ] 52. Monitoring and Management over JMX
-    - [ ] 53. Loggers
+    - [x] [51. Monitoring and Management over HTTP](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/51.Monitoring-and-Management-over-HTTP.md)
+    - [x] [52. Monitoring and Management over JMX](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/52.Monitoring-and-Management-over-JMX.md)
+    - [x] [53. Loggers](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/53.Loggers.md)
     - [x] [54. Metrics](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/54.Metrics.md)
-    - [ ] 55. Auditing
-    - [ ] 56. HTTP Tracing
-    - [ ] 57. Process Monitoring
-    - [ ] 58. Cloud Foundry Support
-    - [ ] 59. What to Read Next
+    - [x] [55. Auditing](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/55.Auditing.md)
+    - [x] [56. HTTP Tracing](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/56.HTTP-Tracing.md)
+    - [x] [57. Process Monitoring](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/57.Process-Monitoring.md)
+    - [x] [58. Cloud Foundry Support](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/58.Cloud-Foundry-Support.md)
+    - [x] [59. What to Read Next](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/59.What-to-Read-Next.md)
 
 - [ ] VI. Deploying Spring Boot Applications
   
