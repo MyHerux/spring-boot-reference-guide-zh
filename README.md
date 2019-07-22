@@ -20,20 +20,20 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 6. Moving to Production
     - [ ] 7. Advanced Topics
 
-- [ ] II. Getting Started
+- [ ] [II. Getting Started]()
   
     - [x] [8. Introducing Spring Boot](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/8.Introducing-Spring-Boot.md)
     - [x] [9. System Requirements](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/9.System-Requirements.md)
     - [x] [10. Installing Spring Boot](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/10.Installing-Spring-Boot.md)
-    - [ ] 11. Developing Your First Spring Boot Application
-    - [ ] 12. What to Read Next
+    - [x] [11. Developing Your First Spring Boot Application](https://github.com/Jximing/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/11.Developing-Your-First-Spring-Boot-Application)
+    - [x] [12. What to Read Next](https://github.com/Jximing/spring-boot-reference-guide-zh/blob/master/II.Getting-Started/12.What-to-Read-Next.md)
 
 - [ ] III. Using Spring Boot
   
-    - [ ] 13. Build Systems
-    - [ ] 14. Structuring Your Code
-    - [ ] 15. Configuration Classes
-    - [ ] 16. Auto-configuration
+    - [x] [13. Build Systems](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/III.Using-Spring-Boot/13.Build-Systems.md)
+    - [x] [14. Structuring Your Code](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/III.Using-Spring-Boot/14.Structuring-Your-Code.md)
+    - [x] [15. Configuration Classes](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/III.Using-Spring-Boot/15.Configuration-Classes.md)
+    - [x] [16. Auto-configuration](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/III.Using-Spring-Boot/16.Auto-configuration.md)
     - [ ] 17. Spring Beans and Dependency Injection
     - [ ] 18. Using the @SpringBootApplication Annotation
     - [ ] 19. Running Your Application
@@ -45,21 +45,21 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
 
     - [ ] 23. SpringApplication
     - [ ] 24. Externalized Configuration
-    - [ ] 25. Profiles
+    - [x] [25. Profiles](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/25.Profiles.md)
     - [ ] 26. Logging
     - [x] [27. Developing Web Applications](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/27.Developing-Web-Applications.md)
     - [ ] 28. Security
     - [ ] 29. Working with SQL Databases
     - [ ] 30. Working with NoSQL Technologies
     - [ ] 31. Caching
-    - [ ] 32. Messaging
+    - [x] [32. Messaging](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/32.Messaging.md)
     - [x] [33. Calling REST Services with RestTemplate](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/33.Calling-REST-Services-with-RestTemplate.md)
     - [ ] 34. Calling REST Services with WebClient
     - [ ] 35. Validation
     - [ ] 36. Sending Email
     - [ ] 37. Distributed Transactions with JTA
     - [ ] 38. Hazelcast
-    - [ ] 39. Quartz Scheduler
+    - [x] [39. Quartz Scheduler](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/IV.Spring-Boot-features/39.Quartz-Scheduler.md)
     - [ ] 40. Spring Integration
     - [ ] 41. Spring Session
     - [ ] 42. Monitoring and Management over JMX
@@ -70,23 +70,23 @@ Spring Boot 是构建所有基于 Spring 应用的起点，旨在使开发者能
     - [ ] 47. Kotlin support
     - [ ] 48. What to Read Next
 
-- [ ] V. Spring Boot Actuator: Production-ready features
+- [x] V. Spring Boot Actuator: Production-ready features
   
     - [x] [49. Enabling Production-ready Features](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/49.Enabling-Production-ready-Features.md)
     - [x] [50. Endpoints](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/50.%08Endpoints.md)
-    - [ ] 51. Monitoring and Management over HTTP
-    - [ ] 52. Monitoring and Management over JMX
-    - [ ] 53. Loggers
+    - [x] [51. Monitoring and Management over HTTP](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/51.Monitoring-and-Management-over-HTTP.md)
+    - [x] [52. Monitoring and Management over JMX](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/52.Monitoring-and-Management-over-JMX.md)
+    - [x] [53. Loggers](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/53.Loggers.md)
     - [x] [54. Metrics](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/54.Metrics.md)
-    - [ ] 55. Auditing
-    - [ ] 56. HTTP Tracing
-    - [ ] 57. Process Monitoring
-    - [ ] 58. Cloud Foundry Support
-    - [ ] 59. What to Read Next
+    - [x] [55. Auditing](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/55.Auditing.md)
+    - [x] [56. HTTP Tracing](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/56.HTTP-Tracing.md)
+    - [x] [57. Process Monitoring](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/57.Process-Monitoring.md)
+    - [x] [58. Cloud Foundry Support](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/58.Cloud-Foundry-Support.md)
+    - [x] [59. What to Read Next](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/V.Spring-Boot-Actuator/59.What-to-Read-Next.md)
 
 - [ ] VI. Deploying Spring Boot Applications
   
-    - [ ] 60. Deploying to the Cloud
+    - [x] [60. Deploying to the Cloud](https://github.com/MyHerux/spring-boot-reference-guide-zh/blob/master/VI.Deploying-Spring-Boot-Applications/60.Deploying-to-the-Cloud.md)
     - [ ] 61. Installing Spring Boot Applications
     - [ ] 62. What to Read Next
 
